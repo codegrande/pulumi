@@ -12,7 +12,7 @@
         "require-from-string": "^2.0.1",
         "source-map-support": "^0.4.16",
         "ts-node": "^7.0.0",
-        "typescript": "^3.0.0",
+        "typescript": "^3.9.10",
         "read-package-tree": "^5.2.1",
         "normalize-package-data": "^2.4.0"
     },
