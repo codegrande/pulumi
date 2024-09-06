@@ -10,6 +10,6 @@
         "typescript": "^3.0.0"
     },
     "dependencies": {
-        "@pulumi/pulumi": "=0.10.0"
+        "@pulumi/pulumi": "3.27.0"
     }
 }
